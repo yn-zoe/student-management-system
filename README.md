@@ -1,8 +1,8 @@
 # Student Management System
 
 ## Course Information
-**Success precious Chioma 
-**25/18477
+**Ayozie Clinton Chinemerem 
+**24/13628
 cyber security
 Lasisi Farouk boluwatife
 24\15519
