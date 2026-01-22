@@ -1,9 +1,9 @@
 # Student Management System
 
 ## Course Information
-Adigwe David 
-24\14701
-cyber security
+Lasisi Farouk boluwatife
+24\15519
+Computer Science
 - Course Code: SEN 201
 - Project Title: Student Management System
 - Programming Language: Python
