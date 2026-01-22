@@ -1,6 +1,9 @@
 # Student Management System
 
 ## Course Information
+**Success precious Chioma 
+**25/18477
+cyber security
 Lasisi Farouk boluwatife
 24\15519
 Computer Science
@@ -29,7 +32,6 @@ It allows users to add new students, view all registered students, and search fo
 - Any operating system (Windows, Linux, macOS)
 
 ---
-
 ## How to Run the Program
 1. Clone or download this repository
 2. Open a terminal or command prompt
