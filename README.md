@@ -2,9 +2,9 @@
 
 ## Course Information
 <<<<<<< HEAD
-**Ayozie Clinton Chinemerem 
-**24/13628
-cyber security
+**ChristianZoe I. BornGreat
+**24/14583
+computer science
 - Course Code: SEN 201
 - Project Title: Student Management System
 - Programming Language: Python
